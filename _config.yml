@@ -11,7 +11,7 @@ name: Sky Hang # ex. DONGChuan
 email: oskyhang@163.com
 location: hangzhou, China # ex. Nice, France
 company: MyCompany
-company_url: my_company_website
+company_url: https://github.com/oskyhang
 github_url: https://github.com/oskyhang # ex. https://github.com/DONGChuan
 description: description_of_your_web_site
 favicon: favicon.png # Image must be in assets/images
