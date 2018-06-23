@@ -16,7 +16,7 @@ github_url: https://github.com/hanggle # ex. https://github.com/DONGChuan
 description: description_of_your_web_site
 favicon: favicon.png # Image must be in assets/images
 repository: hanggle/hanggle.github.io # ex. DONGChuan/DONGChuan.github.io
-pageurl: https://raw.githubusercontent.com/hanggle/hanggle.github.io/master/assets/images
+imgurl: https://raw.githubusercontent.com/hanggle/hanggle.github.io/master/assets/images
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
