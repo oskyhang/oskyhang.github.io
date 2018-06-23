@@ -11,16 +11,16 @@ name: Sky Hang # ex. DONGChuan
 email: oskyhg@163.com
 location: hangzhou, China # ex. Nice, France
 company: MyCompany
-company_url: https://github.com/oskyhang
-github_url: https://github.com/oskyhang # ex. https://github.com/DONGChuan
+company_url: https://github.com/hanggle
+github_url: https://github.com/hanggle # ex. https://github.com/DONGChuan
 description: description_of_your_web_site
 favicon: favicon.png # Image must be in assets/images
-repository: oskyhang/github_username.github.io # ex. DONGChuan/DONGChuan.github.io
+repository: hanggle/github_username.github.io # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: https://oskyhang.github.io/
+url: https://hanggle.github.io/
 
 ## Gem
 gems:
